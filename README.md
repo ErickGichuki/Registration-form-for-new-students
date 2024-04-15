@@ -13,7 +13,7 @@
 - Register button which is of type submit
 - Cancel button whereby if the student want to cancel the information he/she has entered.
 ## Set Up Instruction
-- Fork and clone this repo.
+- Fork and clone this repo ```https://github.com/ErickGichuki/Registration-form-for-new-students```.
 - Run ```code .``` in your terminal to start working on the form.
 
   ##### Happy development!!
